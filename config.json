@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "ads": {
     "networks": [
       "applovin",
@@ -22,11 +22,7 @@
     "popup": null,
     "games": []
   },
-  "news": {
-    "id": "live-test-1",
-    "title": "Live from panel!",
-    "body": "This message reached your phone from the admin panel, no app update."
-  },
+  "news": null,
   "update": {
     "required": false,
     "minVersion": 0,
