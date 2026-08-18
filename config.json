@@ -1,0 +1,35 @@
+{
+  "version": 6,
+  "ads": {
+    "networks": ["applovin", "admob", "unity"],
+    "interstitialEveryNGames": 3,
+    "bannerEnabled": true,
+    "rewardedEnabled": true
+  },
+  "economy": {
+    "coinsPerLine": 1,
+    "comboCoinMultiplier": 2,
+    "levelWinBase": 30,
+    "dailySpinEnabled": true
+  },
+  "houseAds": {
+    "enabled": false,
+    "strip": null,
+    "popup": null,
+    "games": []
+  },
+  "news": {
+    "id": "welcome-1",
+    "title": "Welcome to Block Rush!",
+    "body": "120 levels, 4 themes and a daily spin. Drag blocks, clear lines, chain combos. Have fun!"
+  },
+  "update": {
+    "required": false,
+    "minVersion": 0,
+    "url": ""
+  },
+  "maintenance": {
+    "on": false,
+    "message": ""
+  }
+}
