@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "ads": {
     "networks": [
       "applovin",
@@ -23,9 +23,9 @@
     "games": []
   },
   "news": {
-    "id": "welcome-1",
-    "title": "Welcome to Block Rush!",
-    "body": "120 levels, 4 themes and a daily spin. Drag blocks, clear lines, chain combos. Have fun!"
+    "id": "live-test-1",
+    "title": "Live from panel!",
+    "body": "This message reached your phone from the admin panel, no app update."
   },
   "update": {
     "required": false,
