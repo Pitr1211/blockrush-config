@@ -1,7 +1,11 @@
 {
-  "version": 6,
+  "version": 7,
   "ads": {
-    "networks": ["applovin", "admob", "unity"],
+    "networks": [
+      "applovin",
+      "admob",
+      "unity"
+    ],
     "interstitialEveryNGames": 3,
     "bannerEnabled": true,
     "rewardedEnabled": true
