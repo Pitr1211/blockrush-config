@@ -1,13 +1,10 @@
 {
-  "version": 9,
+  "version": 10,
   "ads": {
-    "networks": [
-      "applovin",
-      "admob",
-      "unity"
-    ],
-    "interstitialEveryNGames": 3,
+    "networks": ["admob", "pangle", "unity"],
+    "interstitialEveryNGames": 5,
     "bannerEnabled": true,
+    "interstitialEnabled": true,
     "rewardedEnabled": true
   },
   "economy": {
